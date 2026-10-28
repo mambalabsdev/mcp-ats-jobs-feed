@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-ats-jobs-feed": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-ats-jobs-feed"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
