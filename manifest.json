@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-ats-jobs-feed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for ATS Jobs Feed. Every open job for a list of companies from their own Greenhouse, Lever, Ashby, Workday, and 13 other ATS boards, one row per job with the company domain. Runs on Apify. Clay-ready output.",
   "author": {
     "name": "Mamba Labs"

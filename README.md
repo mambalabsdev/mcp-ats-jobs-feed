@@ -2,7 +2,7 @@
 
 [![Glama score](https://glama.ai/mcp/servers/mambalabsdev/mcp-ats-jobs-feed/badges/score.svg)](https://glama.ai/mcp/servers/mambalabsdev/mcp-ats-jobs-feed) [![MCP Registry](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fregistry.modelcontextprotocol.io%2Fv0%2Fservers%3Fsearch%3Dcom.mambabuilt%252Fmcp-ats-jobs-feed%26limit%3D1&query=%24.servers%5B0%5D._meta%5B%22io.modelcontextprotocol.registry%2Fofficial%22%5D.status&label=mcp%20registry&color=blue)](https://registry.modelcontextprotocol.io/v0/servers?search=com.mambabuilt/mcp-ats-jobs-feed&limit=1) [![npm version](https://img.shields.io/npm/v/@mambalabsdev/mcp-ats-jobs-feed)](https://www.npmjs.com/package/@mambalabsdev/mcp-ats-jobs-feed) [![npm downloads](https://img.shields.io/npm/dm/@mambalabsdev/mcp-ats-jobs-feed)](https://www.npmjs.com/package/@mambalabsdev/mcp-ats-jobs-feed) [![license](https://img.shields.io/github/license/mambalabsdev/mcp-ats-jobs-feed)](https://github.com/mambalabsdev/mcp-ats-jobs-feed/blob/main/LICENSE) [![mcpservers.org](https://img.shields.io/badge/mcpservers.org-listed-blue)](https://mcpservers.org/servers/mambalabsdev/mcp-ats-jobs-feed)
 
-An MCP server for the Mamba Labs ATS Jobs Feed actor on Apify. Give it company domains or job board URLs. It returns every open job on each company's own ATS board, one row per job with the company domain.
+An MCP server for the Mamba Labs [Company Careers Page Jobs, 17 ATS Boards](https://apify.com/mambalabs/ats-jobs-feed) actor on Apify. Give it company domains or job board URLs. It returns every open job on each company's own ATS board, one row per job with the company domain.
 
 ## What's Inside
 
